@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a 3D Physics Engine<br>🌱 I’m currently learning linear algebra, ODEs<br>👨‍💻 All of my projects are available at jadchahin.ca (coming soon)<br>📫 You can reach me at jchahin11@gmail.com
+🔭 I’m currently working on [3D Physics Engine<br>](https://github.com/jad-chahin/physx3d-sim.git)🌱 I’m currently learning linear algebra, ODEs<br>👨‍💻 All of my projects are available at jadchahin.ca (coming soon)<br>📫 You can reach me at jchahin11@gmail.com
 
 
 ## 🌐 Socials:
