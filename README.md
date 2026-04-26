@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -----------------------
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [jadchahin.ca](http://jadchahin.ca)
+* 🖥️  See my portfolio at [jadchahin.ca](http://jadchahin.ca) (soon)
 * ✉️  Reach me at [jchahin11@gmail.com](mailto:jchahin11@gmail.com)
 * 🚀  I'm currently working on [Sentimeter](http://github.com/jad-chahin/sentimeter)
 
