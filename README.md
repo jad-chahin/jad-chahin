@@ -8,7 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [jadchahin.ca](http://jadchahin.ca)
 * ✉️  Reach me at [jchahin11@gmail.com](mailto:jchahin11@gmail.com)
 * 🚀  I'm currently working on [Sentimeter](http://github.com/jad-chahin/sentimeter)
-* 🧠  I'm currently learning to train ML models
 
 ### Socials
 
