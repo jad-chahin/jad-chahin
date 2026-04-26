@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [3D Physics Engine<br>](https://github.com/jad-chahin/physx3d-sim.git)🌱 I’m currently learning about training AI/ML<br>👨‍💻 All of my projects are available at jadchahin.ca (coming soon)<br>📫 You can reach me at jchahin11@gmail.com
+🔭 I’m currently working on [Sentimeter<br>](https://github.com/jad-chahin/sentimeter.git)🌱 I’m currently learning about training AI/ML<br>👨‍💻 All of my projects are available at jadchahin.ca (coming soon)<br>📫 You can reach me at jchahin11@gmail.com
 
 
 ## 🌐 Socials:
