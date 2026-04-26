@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [jadchahin.ca](http://jadchahin.ca)
-* ✉️  You can contact me at [jchahin11@gmail.com](mailto:jchahin11@gmail.com)
+* ✉️  Reach me at [jchahin11@gmail.com](mailto:jchahin11@gmail.com)
 * 🚀  I'm currently working on [Sentimeter](http://github.com/jad-chahin/sentimeter)
-* 🧠  I'm currently learning to train AI/ML models
+* 🧠  I'm currently learning to train ML models
 
 ### Socials
 
