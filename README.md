@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:ff8fab,30:ffd166,60:7bdff2,100:b8f2e6&text=Hey,%20I'm%20Jad%20Chahin&fontColor=0f172a&fontSize=44&fontAlignY=40&animation=fadeIn" width="100%" alt="Hi!, I'm Jad :)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:ff8fab,30:ffd166,60:7bdff2,100:b8f2e6&text=Hi!,%20I'm%20Jad%20:)&fontColor=0f172a&fontSize=44&fontAlignY=40&animation=fadeIn" width="100%" alt="Hi!, I'm Jad :)" />
 
 <h3>1st year @ UWaterloo Computer Science • Toronto, Canada</h3>
 
