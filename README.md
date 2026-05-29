@@ -37,26 +37,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,java,c,react,nextjs,tailwind,nodejs,fastapi,docker,pytorch,vercel&theme=light&perline=6" alt="Python, TypeScript, Java, C, React, Next.js, Tailwind CSS, Node.js, FastAPI, Docker, PyTorch, and Vercel" />
-
-</div>
-
-<br/>
-
-| Area | Tools |
-| --- | --- |
-| **Languages** | `Python` · `TypeScript` · `Java` · `C` |
-| **Frontend** | `React` · `Next.js` · `Tailwind CSS` |
-| **Backend** | `Node.js` · `FastAPI` · `REST APIs` |
-| **ML / Data** | `PyTorch` · `NumPy` · `Pandas` · `Matplotlib` |
-| **Tools** | `Docker` · `Vercel` · `VS Code` |
-
----
-
 ## 🌐 Connect
 
 <div align="center">
