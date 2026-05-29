@@ -36,7 +36,6 @@
 
 [![Email](https://img.shields.io/badge/Email-jchahin11%40gmail.com-ff6b6b?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jchahin11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jad%20Chahin-3b82f6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jad-chahin)
-[![GitHub](https://img.shields.io/badge/GitHub-jad--chahin-8b5cf6?style=for-the-badge\&logo=github\&logoColor=white)](https://www.github.com/jad-chahin)
 [![Instagram](https://img.shields.io/badge/Instagram-chahin.jad-ec4899?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/chahin.jad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jadchahin.ca-14b8a6?style=for-the-badge\&logo=vercel\&logoColor=white)](https://jadchahin.ca)
 
