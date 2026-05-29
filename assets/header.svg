@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="420" viewBox="0 0 1536 420" role="img" aria-label="Hey, I'm Jad Chahin, 1st year at UWaterloo Computer Science">
+  
+    <defs>
+      <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+        <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.08"/>
+      </filter>
+      <filter id="tinyShadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#0f172a" flood-opacity="0.08"/>
+      </filter>
+      <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#ffffff"/>
+        <stop offset="55%" stop-color="#f8fbff"/>
+        <stop offset="100%" stop-color="#dbeafe"/>
+      </linearGradient>
+      <linearGradient id="softBlue" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#eff6ff"/>
+        <stop offset="100%" stop-color="#bfdbfe"/>
+      </linearGradient>
+      <linearGradient id="ig" x1="0" y1="1" x2="1" y2="0">
+        <stop offset="0%" stop-color="#f59e0b"/>
+        <stop offset="35%" stop-color="#ec4899"/>
+        <stop offset="70%" stop-color="#8b5cf6"/>
+        <stop offset="100%" stop-color="#3b82f6"/>
+      </linearGradient>
+    </defs>
+  <rect x="8" y="8" width="1520" height="404" rx="28" fill="url(#heroBg)" stroke="#dbe3ef" filter="url(#softShadow)"/>
+
+  <!-- soft blobs -->
+  <path d="M8,8 H320 C280,55 230,74 169,61 C100,46 52,74 8,113 Z" fill="#bfdbfe" opacity="0.50"/>
+  <path d="M8,115 C75,86 138,86 197,108 C271,137 346,106 409,8 H8 Z" fill="#dbeafe" opacity="0.60"/>
+  <path d="M1325,411 C1385,325 1443,284 1528,297 V412 Z" fill="#bfdbfe" opacity="0.60"/>
+  <path d="M1410,232 C1460,216 1501,238 1528,290 V412 H1298 C1340,345 1358,263 1410,232 Z" fill="#dbeafe" opacity="0.50"/>
+
+  <!-- left dotted pattern -->
+  <circle cx="65" cy="165" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="84" cy="165" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="103" cy="165" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="122" cy="165" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="141" cy="165" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="160" cy="165" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="65" cy="184" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="84" cy="184" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="103" cy="184" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="122" cy="184" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="141" cy="184" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="160" cy="184" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="65" cy="203" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="84" cy="203" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="103" cy="203" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="122" cy="203" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="141" cy="203" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="160" cy="203" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="65" cy="222" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="84" cy="222" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="103" cy="222" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="122" cy="222" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="141" cy="222" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="160" cy="222" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="65" cy="241" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="84" cy="241" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="103" cy="241" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="122" cy="241" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="141" cy="241" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="160" cy="241" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="65" cy="260" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="84" cy="260" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="103" cy="260" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="122" cy="260" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="141" cy="260" r="3" fill="#93c5fd" opacity="0.75"/><circle cx="160" cy="260" r="3" fill="#93c5fd" opacity="0.75"/>
+
+  <!-- decorative stars -->
+  <g fill="#60a5fa" opacity="0.75">
+    <path d="M236 126 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5z"/>
+    <path d="M1360 70 l8 20 20 8 -20 8 -8 20 -8 -20 -20 -8 20 -8z" opacity="0.55"/>
+    <path d="M1445 144 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5z"/>
+    <path d="M230 175 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z" opacity="0.6"/>
+    <path d="M62 132 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z" opacity="0.55"/>
+  </g>
+
+  <!-- paper plane and path -->
+  <path d="M1196 291 C1251 282 1243 218 1298 211 C1340 206 1351 172 1394 150" fill="none" stroke="#93c5fd" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+  <path d="M1376 145 L1320 173 L1344 181 L1353 211 Z" fill="none" stroke="#60a5fa" stroke-width="4" stroke-linejoin="round" opacity="0.95"/>
+  <path d="M1344 181 L1376 145 L1353 211" fill="none" stroke="#60a5fa" stroke-width="3" stroke-linejoin="round" opacity="0.95"/>
+  <path d="M1170 91 l4 -24" stroke="#2563eb" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <path d="M1196 118 l28 -12" stroke="#60a5fa" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <path d="M1191 86 l19 -16" stroke="#60a5fa" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+
+  <!-- title -->
+  <text x="674" y="155" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-2" fill="#0f172a">Hey, I’m</text>
+  <text x="694" y="155" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-2" fill="#2563eb">Jad Chahin</text>
+  <path d="M862 178 C940 188 1064 188 1163 179" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round" opacity="0.9"/>
+  <text x="768" y="230" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Arial, sans-serif" font-size="30" font-weight="600" fill="#334155">1st year @ UWaterloo Computer Science</text>
+</svg>
