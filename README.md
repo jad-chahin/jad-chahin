@@ -45,4 +45,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:b8f2e6,35:7bdff2,70:ffd166,100:ff8fab&section=footer" width="100%" alt="Footer wave" />
 
 </div>
-::: ​​
