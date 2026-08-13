@@ -8,7 +8,7 @@ software engineer @ generis group, prev. [quickbite](https://github.com/quickbit
 - [linkedin](https://linkedin.com/in/jad-chahin)
 - you can reach me at [jchahin11@gmail.com](mailto:jchahin11@gmail.com)
 
-stats + cs double major, headed toward applied ml. currently learning pytorch and pandas.
+stats + cs double major at uwaterloo. currently learning pytorch and pandas.
 
 ## some old things
 
