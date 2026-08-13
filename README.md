@@ -8,11 +8,9 @@ software engineer @ generis group, prev. [quickbite](https://github.com/quickbit
 - [linkedin](https://linkedin.com/in/jad-chahin)
 - you can reach me at [jchahin11@gmail.com](mailto:jchahin11@gmail.com)
 
-stats + cs double major, headed toward applied ml. most of what i've shipped is typescript and postgres — right now i'm working through pytorch and pandas to close the gap.
+stats + cs double major, headed toward applied ml. currently learning pytorch and pandas.
 
-the thing i keep building toward is systems that verify their own output instead of just producing something plausible.
-
-## some cool things
+## some old things
 
 - [planet-sim](https://github.com/jad-chahin/planet-sim) — real-time 3d rigid-body physics sandbox, c++ and opengl
 - [plan-midterms](https://github.com/jad-chahin/plan-midterms) — multi-agent planner that turns course pdfs into exam schedules
