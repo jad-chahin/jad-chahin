@@ -4,7 +4,7 @@ software engineer intern @ generis group, prev. [quickbite](https://github.com/q
 
 ![profile views](https://komarev.com/ghpvc/?username=jad-chahin&label=profile%20views&color=0e75b6&style=flat)
 
-- [resume](RESUME_URL_HERE)
+- [resume](jad-chahin-resume.pdf)
 - [linkedin](https://linkedin.com/in/jad-chahin)
 - you can reach me at [jchahin11@gmail.com](mailto:jchahin11@gmail.com)
 
