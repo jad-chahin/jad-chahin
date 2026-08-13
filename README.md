@@ -1,6 +1,6 @@
 building [derive-ai](https://github.com/jad-chahin/DeriveAI) — an ai math whiteboard that solves, explains, and checks its own work
 
-software engineer @ generis group, prev. [quickbite](https://github.com/quickbiteco)
+software engineer intern @ generis group, prev. [quickbite](https://github.com/quickbiteco)
 
 ![profile views](https://komarev.com/ghpvc/?username=jad-chahin&label=profile%20views&color=0e75b6&style=flat)
 
@@ -8,7 +8,7 @@ software engineer @ generis group, prev. [quickbite](https://github.com/quickbit
 - [linkedin](https://linkedin.com/in/jad-chahin)
 - you can reach me at [jchahin11@gmail.com](mailto:jchahin11@gmail.com)
 
-stats + cs double major at uwaterloo. currently learning pytorch and pandas.
+cs @ uwaterloo, stats double major planned. currently learning pytorch and pandas.
 
 ## some old things
 
