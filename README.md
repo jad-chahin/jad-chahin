@@ -1,4 +1,4 @@
-building [derive-ai](https://github.com/jad-chahin/DeriveAI) — an ai math whiteboard that solves, explains, and checks its own work
+building [derive-ai](https://github.com/jad-chahin/DeriveAI) - an ai math whiteboard that solves, explains, and checks its own work
 
 prev. software engineer intern @ generis group, [quickbite collective](https://github.com/quickbiteco)
 
