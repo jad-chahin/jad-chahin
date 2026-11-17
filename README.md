@@ -1,6 +1,6 @@
 building [derive-ai](https://github.com/jad-chahin/DeriveAI) - an ai math whiteboard that solves, explains, and checks its own work
 
-prev. software developer intern @ generis group, [quickbite collective](https://github.com/quickbiteco)
+software engineer intern @ AltaML
 
 ![profile views](https://komarev.com/ghpvc/?username=jad-chahin&label=profile%20views&color=0e75b6&style=flat)
 
